@@ -121,7 +121,7 @@ class DetailScreem extends StatelessWidget {
                 ]),
                 Row(children: [
                   SizedBox(
-                    height: 60,
+                    height: 40,
                     width: 20,
                   ),
                   Image.asset("assets/text.png"),
